@@ -1,0 +1,21 @@
+/* Ini adalah file CSS untuk mengelola text style yang ada pada file belajartextstyle.html*/
+
+h1 {
+    color: black;
+    text-align: center;
+    text-decoration: solid;
+}
+h2 {
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+p {
+    color: black;
+    text-align: justify;
+    text-indent: 50px;
+    text-decoration: none;
+    text-transform: none;
+    word-spacing: 1px;
+}
